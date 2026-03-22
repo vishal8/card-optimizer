@@ -5,6 +5,7 @@ dist
 build
 .vercel
 
+.venv
 __pycache__
 *.pyc
 
